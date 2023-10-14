@@ -1,0 +1,3 @@
+[submodule "wagmi-leverage/lib/forge-std"]
+	path = wagmi-leverage/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
