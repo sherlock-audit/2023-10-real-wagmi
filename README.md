@@ -80,3 +80,17 @@ ___
 
 
 # Audit scope
+
+
+[wagmi-leverage @ 21a66a01238aec1f1ecd14f4b3816c05ce37e1fe](https://github.com/RealWagmi/wagmi-leverage/tree/21a66a01238aec1f1ecd14f4b3816c05ce37e1fe)
+- [wagmi-leverage/contracts/LiquidityBorrowingManager.sol](wagmi-leverage/contracts/LiquidityBorrowingManager.sol)
+- [wagmi-leverage/contracts/Vault.sol](wagmi-leverage/contracts/Vault.sol)
+- [wagmi-leverage/contracts/abstract/ApproveSwapAndPay.sol](wagmi-leverage/contracts/abstract/ApproveSwapAndPay.sol)
+- [wagmi-leverage/contracts/abstract/DailyRateAndCollateral.sol](wagmi-leverage/contracts/abstract/DailyRateAndCollateral.sol)
+- [wagmi-leverage/contracts/abstract/LiquidityManager.sol](wagmi-leverage/contracts/abstract/LiquidityManager.sol)
+- [wagmi-leverage/contracts/abstract/OwnerSettings.sol](wagmi-leverage/contracts/abstract/OwnerSettings.sol)
+- [wagmi-leverage/contracts/libraries/Constants.sol](wagmi-leverage/contracts/libraries/Constants.sol)
+- [wagmi-leverage/contracts/libraries/ErrLib.sol](wagmi-leverage/contracts/libraries/ErrLib.sol)
+- [wagmi-leverage/contracts/libraries/ExternalCall.sol](wagmi-leverage/contracts/libraries/ExternalCall.sol)
+- [wagmi-leverage/contracts/libraries/Keys.sol](wagmi-leverage/contracts/libraries/Keys.sol)
+
